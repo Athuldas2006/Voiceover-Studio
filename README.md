@@ -8,6 +8,8 @@ An offline-first Windows desktop app for writing, voicing, and reviewing narrati
 
 [Features](#features) · [Get started](#get-started) · [Build the Windows app](#build-the-windows-app) · [Keyboard shortcuts](#keyboard-shortcuts)
 
+![Voiceover Studio running on Windows](assets/voiceover_studio_screenshot.png)
+
 </div>
 
 ---
