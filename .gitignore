@@ -1,0 +1,26 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller output
+/build/
+/dist/
+/*.spec
+
+# Downloaded Piper voice models and local app data
+/voices/
+/history/
+/generated_voiceover.wav
+/voiceover_result_*.wav
+/preview_*.wav
+/first_voiceover.wav
+/test_script.txt
+
+# Local editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
